@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 .env
 .DS_Store
+data/train_transaction.csv
+data/test_transaction.csv
+
