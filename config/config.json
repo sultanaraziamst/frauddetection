@@ -1,0 +1,9 @@
+{
+    "db": {
+        "host": "localhost",
+        "user": "root",
+        "password": "root",
+        "database": "fraud_input_data",
+        "port": 3306
+    }
+}
